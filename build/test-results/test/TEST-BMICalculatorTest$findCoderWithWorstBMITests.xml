@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BMICalculatorTest$findCoderWithWorstBMITests" tests="3" skipped="1" failures="0" errors="0" timestamp="2022-03-06T03:19:39" hostname="MacBook.local" time="0.008">
+  <properties/>
+  <testcase name="shouldReturnCoderWithWorstBMI()" classname="BMICalculatorTest$findCoderWithWorstBMITests" time="0.003"/>
+  <testcase name="shouldReturnNullWorstBMICoderWhenEmptyList()" classname="BMICalculatorTest$findCoderWithWorstBMITests" time="0.001"/>
+  <testcase name="shouldReturnCoderWithWorstBMIin1Ms_when_list_has_10000_elements()" classname="BMICalculatorTest$findCoderWithWorstBMITests" time="0.002">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
