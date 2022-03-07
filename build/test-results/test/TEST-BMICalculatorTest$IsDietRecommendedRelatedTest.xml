@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BMICalculatorTest$IsDietRecommendedRelatedTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2022-03-06T03:19:39" hostname="MacBook.local" time="0.055">
+  <properties/>
+  <testcase name="weight=82.0, height=1.68" classname="BMICalculatorTest$IsDietRecommendedRelatedTest" time="0.019"/>
+  <testcase name="weight=85.0, height=1.69" classname="BMICalculatorTest$IsDietRecommendedRelatedTest" time="0.001"/>
+  <testcase name="weight=89.0, height=1.72" classname="BMICalculatorTest$IsDietRecommendedRelatedTest" time="0.001"/>
+  <testcase name="weight=95.0, height=1.75" classname="BMICalculatorTest$IsDietRecommendedRelatedTest" time="0.0"/>
+  <testcase name="weight=110.0, height=1.78" classname="BMICalculatorTest$IsDietRecommendedRelatedTest" time="0.001"/>
+  <testcase name="weight=120.0, height=1.89" classname="BMICalculatorTest$IsDietRecommendedRelatedTest" time="0.001"/>
+  <testcase name="weight=125.5, height=1.92" classname="BMICalculatorTest$IsDietRecommendedRelatedTest" time="0.001"/>
+  <testcase name="should_Throw_ArithmeticException_When_Height_Zero()" classname="BMICalculatorTest$IsDietRecommendedRelatedTest" time="0.002"/>
+  <testcase name="shouldReturnFalseWhenDietRecommended()" classname="BMICalculatorTest$IsDietRecommendedRelatedTest" time="0.001"/>
+  <testcase name="weight=89.0, height=1.72" classname="BMICalculatorTest$IsDietRecommendedRelatedTest" time="0.001"/>
+  <testcase name="weight=95.0, height=1.75" classname="BMICalculatorTest$IsDietRecommendedRelatedTest" time="0.001"/>
+  <testcase name="weight=110.0, height=1.78" classname="BMICalculatorTest$IsDietRecommendedRelatedTest" time="0.001"/>
+  <testcase name="weight=90.0" classname="BMICalculatorTest$IsDietRecommendedRelatedTest" time="0.001"/>
+  <testcase name="weight=95.0" classname="BMICalculatorTest$IsDietRecommendedRelatedTest" time="0.0"/>
+  <testcase name="weight=99.0" classname="BMICalculatorTest$IsDietRecommendedRelatedTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
